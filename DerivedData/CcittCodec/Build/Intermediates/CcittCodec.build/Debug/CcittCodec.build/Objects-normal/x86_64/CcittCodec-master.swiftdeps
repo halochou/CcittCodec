@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "537e3364de2bc858ec8f5ed9a9597574"
+build_time: [531345108, 926150000]
+inputs:
+  "/Users/halo/src/CcittCodec/Sources/TwoDim.swift": [531260747, 0]
+  "/Users/halo/src/CcittCodec/Sources/main.swift": [531345108, 0]
+  "/Users/halo/src/CcittCodec/Sources/OneDim.swift": [531166215, 0]
+  "/Users/halo/src/CcittCodec/Sources/utils.swift": [531259413, 0]
